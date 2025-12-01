@@ -1,2 +1,2 @@
 # ResistorCalc
-Resistor Calculator app written for Picoware on the PicoCalc
+Resistor Calculator app written for [Picoware](https://github.com/jblanked/Picoware) on the PicoCalc
